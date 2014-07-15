@@ -1,0 +1,17 @@
+{
+  "name": "ml-server",
+  "version": "0.0.1",
+  "description": "TCP server to remote-control Lucidity's Freedom bulbs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.onion.io:service/ml-server.git"
+  },
+  "author": "Onion Corporation",
+  "license": "Proprietary",
+  "dependencies": {}
+}
